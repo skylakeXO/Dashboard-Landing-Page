@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100%;
+    color: black;
+    background-image: url(https://images.unsplash.com/photo-1423248515266-98acb914c861?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=635&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#time {
+    font-size: 8rem;
+    margin-top: 100px;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-bottom: 10px;;
+}
+
